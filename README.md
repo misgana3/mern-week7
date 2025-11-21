@@ -1,3 +1,4 @@
 live deployments
-front end :[https://mern-week7.vercel.app]
+front end :[https://mern-week7.vercel.app/]
+
 
